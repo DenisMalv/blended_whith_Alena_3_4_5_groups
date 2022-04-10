@@ -3,7 +3,7 @@ import mapper from '../utils/mapper';
 import { FilmList } from './FilmList/FilmList';
 import { Button } from './Button/Button';
 
-import react, { Component } from 'react';
+import { Component } from 'react';
 
 
 class App extends Component {

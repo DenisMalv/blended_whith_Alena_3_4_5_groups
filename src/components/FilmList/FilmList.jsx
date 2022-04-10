@@ -1,6 +1,5 @@
 import { FilmListItem } from './FilmListItem';
 import propTypes from 'prop-types';
-import { shape } from 'prop-types';
 
 import css from './FilmList.module.css'
 
