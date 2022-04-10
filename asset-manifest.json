@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blended_whith_Alena_3_4_5_groups/static/css/main.7acaea2f.css",
+    "main.js": "/blended_whith_Alena_3_4_5_groups/static/js/main.35bc17a7.js",
+    "index.html": "/blended_whith_Alena_3_4_5_groups/index.html",
+    "main.7acaea2f.css.map": "/blended_whith_Alena_3_4_5_groups/static/css/main.7acaea2f.css.map",
+    "main.35bc17a7.js.map": "/blended_whith_Alena_3_4_5_groups/static/js/main.35bc17a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.35bc17a7.js"
+  ]
+}
