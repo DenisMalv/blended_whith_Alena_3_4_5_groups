@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blended_whith_Alena_3_4_5_groups/static/css/main.b2b5aa99.css",
-    "main.js": "/blended_whith_Alena_3_4_5_groups/static/js/main.84d9798e.js",
+    "main.css": "/blended_whith_Alena_3_4_5_groups/static/css/main.d0e87cfe.css",
+    "main.js": "/blended_whith_Alena_3_4_5_groups/static/js/main.5424c6de.js",
     "index.html": "/blended_whith_Alena_3_4_5_groups/index.html",
-    "main.b2b5aa99.css.map": "/blended_whith_Alena_3_4_5_groups/static/css/main.b2b5aa99.css.map",
-    "main.84d9798e.js.map": "/blended_whith_Alena_3_4_5_groups/static/js/main.84d9798e.js.map"
+    "main.d0e87cfe.css.map": "/blended_whith_Alena_3_4_5_groups/static/css/main.d0e87cfe.css.map",
+    "main.5424c6de.js.map": "/blended_whith_Alena_3_4_5_groups/static/js/main.5424c6de.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b5aa99.css",
-    "static/js/main.84d9798e.js"
+    "static/css/main.d0e87cfe.css",
+    "static/js/main.5424c6de.js"
   ]
 }
