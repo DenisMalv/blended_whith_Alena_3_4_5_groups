@@ -1,14 +1,15 @@
 import propTypes from "prop-types";
+import css from './FilmList.module.css'
 
 export const FilmListItem = ({ title, img, id, onDeleteFilm, watched, onWatchedFilm }) => {
   return (
     <>
-      <img src={`https://image.tmdb.org/t/p/w500${img}`} alt="poster" />
-      <h2>{title}</h2>
-      <button type="button" onClick={() => onDeleteFilm(id)}>
+      <img className={ css.image } src={`https://image.tmdb.org/t/p/w500${img}`} alt="poster" />
+      <h2 className={ css.title }>{title}</h2>
+      <button className={ css.button } type="button" onClick={() => onDeleteFilm(id)}>
         Delete
       </button>
-          <span onClick={() => onWatchedFilm(id)}>watched: {watched+''}</span>
+      <span className={ css.watchedText } onClick={() => onWatchedFilm(id)}>watched: {watched+''}</span>
     </>
   );
 };
